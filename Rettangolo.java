@@ -33,7 +33,7 @@ public class Rettangolo {
         System.out.println("Somma delle Aree: " + sommaAree);
         System.out.println("Somma dei Perimetri: " + sommaPerimetri);
     }
-    
+
     public static void main(String[] args) {
         Rettangolo rettangolo1 = new Rettangolo(5, 3);
         Rettangolo rettangolo2 = new Rettangolo(6, 8);
